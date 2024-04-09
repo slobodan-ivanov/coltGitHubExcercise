@@ -1,3 +1,6 @@
 Titanic
 La la land
-Notebookßßß
+Notebook
+Apple
+Banana
+Orange
